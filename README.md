@@ -1,5 +1,7 @@
-### Hi there 👋
+### ✨Welcome! I'm Kanition!✨欢迎！我是Kaniton！✨
 
+- 🌱 I’m currently learning computer graphics.
+- 🌱 我现在正在学习计算机图形学。
 <!--
 **kanition/kanition** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
