@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning computer graphics.
 - 🌱 我现在正在学习计算机图形学。
 - 🔭 I am busy with my job. So the update frequency may be lower.
-- 🔭 近来忙于工作，所以更新频率会低些。
+- 🔭 近来找到了工作，所以更新频率会低些。
 <!--
 **kanition/kanition** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
