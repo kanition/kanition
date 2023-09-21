@@ -1,4 +1,4 @@
-### ✨Welcome! I'm Kanition!✨欢迎！我是Kaniton！✨
+### ✨Welcome! I'm Kanition!✨欢迎！我是Kanition！✨
 
 - 🌱 I’m currently learning computer graphics.
 - 🌱 我现在正在学习计算机图形学。
