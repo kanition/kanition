@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-2025年公钥：[71B2D3323D18172E967A76F041F9461C52BA630F](https://keyserver.ubuntu.com/pks/lookup?search=71B2D3323D18172E967A76F041F9461C52BA630F&fingerprint=on&op=index)
+2025年RSA4096公钥指纹：[71B2D3323D18172E967A76F041F9461C52BA630F](https://keyserver.ubuntu.com/pks/lookup?search=71B2D3323D18172E967A76F041F9461C52BA630F&fingerprint=on&op=index)
